@@ -11,7 +11,7 @@ setuptools.setup(
     description="Convexity Check is a simple package for numerically checking if a given function is convex/concave",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/parskatt/convexity-checker",
+    url="https://github.com/Parskatt/convexity_check",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
