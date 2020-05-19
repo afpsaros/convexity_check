@@ -1,0 +1,5 @@
+build
+convexity_check.egg-info
+dist
+.vscode
+__pycache__
