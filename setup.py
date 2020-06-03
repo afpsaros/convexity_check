@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="convexity_check",
-    version="0.0.4",
+    version="0.0.6",
     author="Johan Edstedt",
     author_email="edstedt.johan@gmail.com",
     description="Convexity Check is a simple package for numerically checking if a given function is convex/concave",
